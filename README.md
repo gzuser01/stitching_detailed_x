@@ -1,0 +1,1 @@
+扩展stitching_detailed，以样本合成指定照片
